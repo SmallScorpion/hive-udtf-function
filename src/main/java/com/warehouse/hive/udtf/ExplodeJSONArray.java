@@ -1,4 +1,4 @@
-package com.warehouse.hive.udf;
+package com.warehouse.hive.udtf;
 
 import org.apache.hadoop.hive.ql.exec.UDFArgumentException;
 import org.apache.hadoop.hive.ql.metadata.HiveException;
